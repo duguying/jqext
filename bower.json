@@ -1,0 +1,25 @@
+{
+  "name": "jqext",
+  "version": "0.0.0",
+  "authors": [
+    "Rex Lee(李俊) <duguying2008@gmail.com>"
+  ],
+  "description": "Some Rex's jQuery Extensions",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jQuery",
+    "Extension",
+    "Controller"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/duguying/jqext.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
